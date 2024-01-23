@@ -1,1 +1,1 @@
-# Hotel-Reservation app built using angular nad bootstrap
+# Hotel-Reservation app built using angular and bootstrap
